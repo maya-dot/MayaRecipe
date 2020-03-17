@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Maya Recipe Manager</string>
+    <string name="app_bake">Maya Recipe - cakes and pastries</string>
+    <string name="app_make">Maya Recipe - cooking and salads</string>
+    <string name="search_title">Search Image</string>
+    <string name="app_label">RecipeMng</string>
+    <string name="search_hint">search image</string>
+</resources>

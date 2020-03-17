@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "613000893053",
+    "firebase_url": "https://recipemanage.firebaseio.com",
+    "project_id": "recipemanage",
+    "storage_bucket": "recipemanage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613000893053:android:0d2c92f698cfe258c89714",
+        "android_client_info": {
+          "package_name": "com.example.recipemng"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613000893053-dilnuo0ilpboa91oic8v4pl1jktk4650.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNPOljLrN5SfMtzuV_2LdNoBYz-d9SfXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613000893053-dilnuo0ilpboa91oic8v4pl1jktk4650.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

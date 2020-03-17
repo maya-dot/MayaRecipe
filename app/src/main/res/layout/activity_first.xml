@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    tools:context=".FirstActivity">
+
+    <ImageView
+        android:id="@+id/background"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_centerHorizontal="true"
+        android:alpha="0.9"
+        android:background="@drawable/maya" />
+
+    <Button
+        android:id="@+id/btn_cake"
+        android:layout_width="match_parent"
+        android:layout_height="311dp"
+        android:alpha="0.0"
+        android:strokeWidth="2"
+        android:strokeColor="#010101" />
+
+    <Button
+        android:id="@+id/btn_make"
+        android:layout_width="match_parent"
+        android:layout_height="321dp"
+        android:layout_marginTop="410dp"
+        android:alpha="0.0"
+        android:strokeWidth="2"
+        android:strokeColor="#010101" />
+</FrameLayout>
